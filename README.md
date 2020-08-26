@@ -17,3 +17,12 @@ We initially set out to come up with a list of unified principles for our design
 - Throughput beats perfection.
 - Ship the minimum viable change, listen for feedback, and iterate accordingly.
 - Focus on removing friction from the workflow.
+
+## Danielle's principles
+
+- Functional is better than perfect.
+- The details make the cake. Micro interactions matter.
+- Anyone can design (as in, inspiration and great ideas can come from anywhere).
+- The work is never done, but it's good to know when to stop (thanks Zari!).
+- "Whack the moles". We should fix small, easy wins on the spot –– not walk by them.
+- Anything added dilutes everything else.
