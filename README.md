@@ -27,3 +27,8 @@ We initially set out to come up with a list of unified principles for our design
 - The work is never done, but it's good to know when to stop (thanks Zari!).
 - Disagree and commit (thanks Joel!).
 - Anything added dilutes everything else.
+
+### Prior art
+- [The Zen of Python](https://legacy.python.org/dev/peps/pep-0020/)
+- [Taste and The Zen of GitHub](https://warpspire.com/posts/taste)
+- [The Zen of GitHub](https://ben.balter.com/2015/08/12/the-zen-of-github/)
