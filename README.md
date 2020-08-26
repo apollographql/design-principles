@@ -17,3 +17,8 @@ We initially set out to come up with a list of unified principles for our design
 - Throughput beats perfection.
 - Ship the minimum viable change, listen for feedback, and iterate accordingly.
 - Focus on removing friction from the workflow.
+
+### Prior art
+- [The Zen of Python](https://legacy.python.org/dev/peps/pep-0020/)
+- [Taste and The Zen of GitHub](https://warpspire.com/posts/taste)
+- [The Zen of GitHub](https://ben.balter.com/2015/08/12/the-zen-of-github/)
