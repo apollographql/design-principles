@@ -23,6 +23,7 @@ We initially set out to come up with a list of unified principles for our design
 - Functional is better than perfect.
 - The details make the cake. Micro interactions matter.
 - Anyone can design (as in, inspiration and great ideas can come from anywhere).
-- The work is never done, but it's good to know when to stop (thanks Zari!).
 - "Whack the moles". We should fix small, easy wins on the spot –– not walk by them.
+- The work is never done, but it's good to know when to stop (thanks Zari!).
+- Disagree and commit (thanks Joel!).
 - Anything added dilutes everything else.
