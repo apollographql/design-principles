@@ -28,6 +28,18 @@ We initially set out to come up with a list of unified principles for our design
 - Disagree and commit (thanks Joel!).
 - Anything added dilutes everything else.
 
+## Zari's principles
+
+- Design is a partner, not a service
+- Consistent is better than custom
+- Overcommunication is better than ambiguity
+- Showing/disabling is better than hiding
+- Just because you can, doesn't mean you should
+- Never lose sight of the new user when designing for the power user
+- The work is never done, but it's good to know when to stop
+- Asking questions demonstrates strength, not ignorance
+- Accessibility is not optional
+
 ### Prior art
 - [The Zen of Python](https://legacy.python.org/dev/peps/pep-0020/)
 - [Taste and The Zen of GitHub](https://warpspire.com/posts/taste)
