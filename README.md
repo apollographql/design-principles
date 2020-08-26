@@ -18,6 +18,15 @@ We initially set out to come up with a list of unified principles for our design
 - Ship the minimum viable change, listen for feedback, and iterate accordingly.
 - Focus on removing friction from the workflow.
 
+## Danielle's principles
+
+- Functional is better than perfect.
+- The details make the cake. Micro interactions matter.
+- Anyone can design (as in, inspiration and great ideas can come from anywhere).
+- The work is never done, but it's good to know when to stop (thanks Zari!).
+- "Whack the moles". We should fix small, easy wins on the spot –– not walk by them.
+- Anything added dilutes everything else.
+
 ### Prior art
 - [The Zen of Python](https://legacy.python.org/dev/peps/pep-0020/)
 - [Taste and The Zen of GitHub](https://warpspire.com/posts/taste)
