@@ -40,6 +40,18 @@ We initially set out to come up with a list of unified principles for our design
 - Asking questions demonstrates strength, not ignorance
 - Accessibility is not optional
 
+## Tim's principles
+
+- Determine user needs first.
+- Consistency is key.
+- Try things, learn, and iterate later.
+- Solicit feedback shamelessly.
+- Make (informed) decisions for users.
+- Great products offer simplicity and transparency.
+- Don't aim for "Wow!" Aim for "Of course!"
+- Scalability matters. Design for the future.
+- Obvious--and preferably singular--solutions.
+
 ### Prior art
 - [The Zen of Python](https://legacy.python.org/dev/peps/pep-0020/)
 - [Taste and The Zen of GitHub](https://warpspire.com/posts/taste)
