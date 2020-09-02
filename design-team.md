@@ -1,6 +1,6 @@
 ## Joel's principles
 
-- Content drives presentation. Form follows funtion.
+- Content drives presentation. Form follows function.
 - Disagree and commit.
 - User research is everyone's responsiblity. We are all advocates for our customers.
 - Time is of the essence.
