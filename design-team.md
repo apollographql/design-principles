@@ -47,6 +47,15 @@
 - Scalability matters. Design for the future.
 - Obvious--and preferably singular--solutions.
 
+## Carlos' principles
+- Empower others.
+- Take in to consideration your user’s mental model.
+- Transparency over ambiguity.
+- Fail fast, fail early.
+- Aim to minimize the possibility of errors but they are bound to happen, help users overcome them.
+- Don’t be afraid of change.
+- It's never a bad time for feedback. 
+
 ## Desiree's principles
 - Strive for intuitive solutions
 - Design for everyone, understand accessibility
@@ -54,3 +63,4 @@
 - Details make the experience
 - Be mindful of the design process
 - Be consistent, not uniform
+
