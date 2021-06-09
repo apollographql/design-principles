@@ -14,13 +14,14 @@
 
 ## Danielle's principles
 
-- Functional is better than perfect.
 - The details make the cake. Micro interactions matter.
-- Anyone can design (as in, inspiration and great ideas can come from anywhere).
+- "Anyone Can Design" (spoken in the Gaston accent of "Anyone Can Cook") –– as in, great ideas and inspiration can come from anywhere and unexpected places.
 - "Whack the moles". We should fix small, easy wins on the spot –– not walk by them.
 - The work is never done, but it's good to know when to stop (thanks Zari!).
 - Disagree and commit (thanks Joel!).
-- Anything added dilutes everything else.
+- Ship it and iterate –– opening the first door will help you figre out what the next doors even are.
+- Favor doing over deliberating, trying over deciding, asking for foreginess instead of asking for permission.
+- Prototyping is key –– sometimes you have to play with something to know what feels right and what doesn't.
 
 ## Zari's principles
 
@@ -53,4 +54,13 @@
 - Fail fast, fail early.
 - Aim to minimize the possibility of errors but they are bound to happen, help users overcome them.
 - Don’t be afraid of change.
-- It's never a bad time forfeedback. 
+- It's never a bad time for feedback. 
+
+## Desiree's principles
+- Strive for intuitive solutions
+- Design for everyone, understand accessibility
+- Always seek feedback
+- Details make the experience
+- Be mindful of the design process
+- Be consistent, not uniform
+
