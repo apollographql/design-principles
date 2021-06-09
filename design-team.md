@@ -45,3 +45,11 @@
 - Don't aim for "Wow!" Aim for "Of course!"
 - Scalability matters. Design for the future.
 - Obvious--and preferably singular--solutions.
+
+## Desiree's principles
+- Strive for intuitive solutions
+- Design for everyone, understand accessibility
+- Always seek feedback
+- Details make the experience
+- Be mindful of the design process
+- Be consistent, not uniform
