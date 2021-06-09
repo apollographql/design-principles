@@ -11,6 +11,7 @@
 - Throughput beats perfection.
 - Ship the minimum viable change, listen for feedback, and iterate accordingly.
 - Focus on removing friction from the workflow.
+- testing this line with some changes
 
 ## Danielle's principles
 
