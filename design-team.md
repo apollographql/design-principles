@@ -1,3 +1,6 @@
+## Ana's principles
+- ...
+
 ## Joel's principles
 (*needs some consolidation*) 🙈
 - Identify the jobs a feature or workflow needs to solve. Don't give the feature/workflow/UI component too many jobs (keep a relatively simple mapping of job to component).
