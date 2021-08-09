@@ -78,3 +78,14 @@
 - Be mindful of the design process
 - Be consistent, not uniform
 
+## Ana's principles
+- Ethical design helps us move beyond empathy and towards compassion for the user
+- Focus on inclusive design, on creating access and preventing (or removing) obstacles
+- Ensure every design decision, no matter how small, is rooted in intentionality and advocacy
+- Consider accessibility from the start, and factor it into every decision
+- Prioritize functionality and must-haves, but remember that details matter
+- Focus on asking and answering *why* before moving into *how*
+- Design is a conversation—it's important to build and maintain our relationship with users (Ship → Learn → Iterate → Repeat!)
+- Design is a strategic business partner that can help drive impactful outcomes and metrics
+- Consistency and familiarity are essential (question/challenge patterns when appropriate)
+- Constraints are opportunities for creativity
