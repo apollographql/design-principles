@@ -29,13 +29,13 @@
 ## Danielle's principles
 
 - The details make the cake. Micro interactions matter.
-- "Anyone Can Design" (spoken in the Gaston accent of "Anyone Can Cook") –– as in, great ideas and inspiration can come from anywhere and unexpected places.
-- "Whack the moles". We should fix small, easy wins on the spot –– not walk by them.
-- The work is never done, but it's good to know when to stop (thanks Zari!).
-- Disagree and commit (thanks Joel!).
-- Ship it and iterate –– opening the first door will help you figre out what the next doors even are.
-- Favor doing over deliberating, trying over deciding, asking for foreginess instead of asking for permission.
-- Prototyping is key –– sometimes you have to play with something to know what feels right and what doesn't.
+- "Anyone Can Design" –– as in, great ideas and inspiration can come from anywhere and unexpected places.
+- "Whack the moles". We should fix small, easy wins on the spot instead of walking by them.
+- Disagree and commit.
+- Ship and iterate. The work is never done, but it's good to know when to stop.
+- Favor doing over deliberating (asking forgiveness, not permission).
+- Sometimes you have to prototype something to really know what it feels like.
+- Don't reinvent the wheel. Use browser APIs and other existing systems when possible.
 
 ## Zari's principles
 
