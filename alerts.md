@@ -63,3 +63,40 @@ Worthwhile reading for reference:
 - [Primer Design System: Messaging](https://primer.style/design/ui-patterns/messaging)
 - [Bootstrap Toasts](https://getbootstrap.com/docs/4.2/components/toasts/)
 - [Primer Toasts](https://primer.style/css/components/toasts)
+
+---
+
+# Design implementation
+
+Here are some examples for how Alerts can be implemented, starting with the two main use cases:
+
+## Alert banners
+
+Alert banners are primarily for situations where there is nothing you can do in the UI to immediately fix or change the state (e.g. deprecation warnings, account status alerts, etc).
+
+![alert-banners-image-light-and-dark](https://user-images.githubusercontent.com/1319791/133327896-f0346b15-4847-432a-b6f7-aa0916f0ed98.png)
+
+
+- [see in SpaceKit Storybook](https://space-kit.netlify.app/?path=/docs/components-alertbanner--info-light).
+- see in [Sketch Cloud](https://www.sketch.com/s/aa84f7e1-c1aa-4f8c-a252-b62955de353a/a/ew5w0x), and see also [version with CTA button](https://www.sketch.com/s/aa84f7e1-c1aa-4f8c-a252-b62955de353a/a/l3RVwe)
+
+## Full-page banners
+
+Full-page banners are a form of alert banner reserved for situations where the message pertains to app-level or page-level situations. These banners display a persistent message that cannot be manually dismissed by the user. These banners inherit the same type themes and iconography as standard alert banners, with the addition of a neutral type (gray), used for displaying information about the freshness of page content.
+
+Full-page banners are appended to the base of the page header, and like the page header, should stay fixed in view even if the contents of the page scroll.
+
+![full-page-alert-banners-light-and-dark](https://user-images.githubusercontent.com/1319791/133328119-e437e1bf-6014-495e-98b1-26f479a10fd1.png)
+
+## Alert toast cards
+
+Toast cards appear in the middle of your workflow when an action you’ve taken prompts a message, or when a state that your account, graph, or data is in prompts a message.
+
+Toast cards can have several variations:
+- just a message that can be dismissed
+- a message with a primary (and optionally a secondary) call to action button
+- or an expanded content variant that allows for longer form instructions or messaging (used when the content requires more than a single paragraph)
+
+|||
+|---|---|
+|![alert-toast-card-examples-light](https://user-images.githubusercontent.com/1319791/133328528-0ea33b49-334b-4146-b15a-a837138415b1.png)|![alert-toast-card-examples-dark](https://user-images.githubusercontent.com/1319791/133328572-4829de4c-7f6b-4eba-945e-ac5cca8e2c5a.png)|
