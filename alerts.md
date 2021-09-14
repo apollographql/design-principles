@@ -86,7 +86,9 @@ Full-page banners are a form of alert banner reserved for situations where the m
 
 Full-page banners are appended to the base of the page header, and like the page header, should stay fixed in view even if the contents of the page scroll.
 
-![full-page-alert-banners-light-and-dark](https://user-images.githubusercontent.com/1319791/133328119-e437e1bf-6014-495e-98b1-26f479a10fd1.png)
+|||
+|---|---|
+|![full-page-alerts-light](https://user-images.githubusercontent.com/1319791/133329067-24c475ce-9dca-4c1f-8e33-5ce5a9b81d8f.png)|![full-page-alerts-dark](https://user-images.githubusercontent.com/1319791/133329098-e8eb6f2b-de05-472c-a56b-0d279482a420.png)|
 
 ## Alert toast cards
 
