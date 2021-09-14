@@ -77,7 +77,7 @@ Alert banners are primarily for situations where there is nothing you can do in 
 ![alert-banners-image-light-and-dark](https://user-images.githubusercontent.com/1319791/133327896-f0346b15-4847-432a-b6f7-aa0916f0ed98.png)
 
 
-- [see in SpaceKit Storybook](https://space-kit.netlify.app/?path=/docs/components-alertbanner--info-light).
+- [see AlertBanner](https://space-kit.netlify.app/?path=/docs/components-alertbanner--info-light) in SpaceKit Storybook.
 - see in [Sketch Cloud](https://www.sketch.com/s/aa84f7e1-c1aa-4f8c-a252-b62955de353a/a/ew5w0x), and see also [version with CTA button](https://www.sketch.com/s/aa84f7e1-c1aa-4f8c-a252-b62955de353a/a/l3RVwe)
 
 ## Full-page banners
@@ -102,3 +102,5 @@ Toast cards can have several variations:
 |||
 |---|---|
 |![alert-toast-card-examples-light](https://user-images.githubusercontent.com/1319791/133328528-0ea33b49-334b-4146-b15a-a837138415b1.png)|![alert-toast-card-examples-dark](https://user-images.githubusercontent.com/1319791/133328572-4829de4c-7f6b-4eba-945e-ac5cca8e2c5a.png)|
+
+- [see in AlertCard](https://space-kit.netlify.app/?path=/docs/components-alertcard--info-light) in SpaceKit Storybook.
