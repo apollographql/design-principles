@@ -5,7 +5,6 @@
 - Always be shipping.
 - Iterate often.
 - Favor unblocking over blocking.
-- Embrace the seasonality of a project process. Take time to listen (research), and time to process and consider. Break the problem wide open. Start with story, and identify/build a clear narrative. Explore designs at the lowest possible fidelity level. Negotiate for alignment and scope. Participate in the build. Guide the ship. Take time to sharpen the saw, rest, and reflect before starting again.
 - Design is a communication tool, not just implementation instructions. Use design to drive the conversation, and help people communicate their vision.
 - Favor unblocking over blocking. Momentum is precious.
 - Disagree and commit.
