@@ -24,6 +24,7 @@
 - Copy is UI too.
 - Embrace the journey. The best experiences are often cultivated over time, not simply launched at once.
 - Listen carefully to others, listen for their perspective and look at what they are seeing, and include it in your own perspective. Tell a compelling story, and bring everyone along for the ride.
+- Shaping the product by giving it form. Distinction helps the shaping, and helps users become familiar with the shape. Lack of form, shape, and distinction makes it easy to get lost.
 
 ## Danielle's principles
 
